@@ -11,7 +11,8 @@ with filling:
 	clear subject textbox
 	clear additional claims if there is no authorization
 	add a claim => "Role" : "Admin" (only Admin is authorized in the application)
-	key : gangsters paradise where do you go
+	key : Iam an alien Iam a legal alien Iam an Englishman in New York
+        (this key is pulled from API_Gateway's and API1's appsettings.json files)
 	create signed jwt and copy jwt to clipboard
 paste the copied key to POSTMAN's token field
 
