@@ -11,7 +11,7 @@ with filling:
 	clear subject textbox
 	clear additional claims if there is no authorization
 	add a claim => "Role" : "Admin" (only Admin is authorized in the application)
-	key : laylaylom
+	key : gangsters paradise where do you go
 	create signed jwt and copy jwt to clipboard
 paste the copied key to POSTMAN's token field
 
